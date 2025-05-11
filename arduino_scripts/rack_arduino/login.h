@@ -1,0 +1,10 @@
+const char *ssid = "";
+const char *username = "";
+const char *password = "";
+const char *base_rest_url = "https://us-east-2.aws.data.mongodb-api.com/app/data-kpoqbux/endpoint/data/v1/action";
+const char *AtlasAPIKey = "3rSblJ5na5qoa5rSS08qGeZMSzAnTsMbZsKKE58QOITtn1aJxNaE7gbohTBPI5fR";
+const char* mqtt_server = "ddaa1f93a61a4de7aaf7465c2984155c.s1.eu.hivemq.cloud";
+char serverAddress[] = "us-east-2.aws.data.mongodb-api.com";
+int port = 443;
+const char *mqtt_username = "igemfridge";
+const char *mqtt_password = "Suffering1";
